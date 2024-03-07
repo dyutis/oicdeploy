@@ -1,5 +1,5 @@
 ﻿DVM,SlackChannels,,slack
 Instance,Channel
 test-oic,flexdeploy-demo
-dev-oic,testing83
+dev-oic,${{TEST_LOOKUP_VAL}}
 uat-oic,fd-uat
